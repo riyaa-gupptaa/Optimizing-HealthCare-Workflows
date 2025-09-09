@@ -5,6 +5,7 @@ plotly>=5.18.0
 matplotlib>=3.8.2
 seaborn>=0.13.2
 statsmodels>=1.2.0
+
 # Core data processing
 numpy>=1.26.4
 pandas>=2.1.0
@@ -14,14 +15,9 @@ scipy>=1.12.1
 scikit-learn>=1.4.1
 xgboost>=2.1.1
 
-# Utilities
+# Optional utilities
 pillow>=10.0.0
 pyyaml>=6.0
-psutil>=5.9.6
-kiwisolver>=1.4.5
-contourpy>=1.2.1
-cffi>=1.15.1
-
-# Optional memory profiling
 pympler>=1.1
+
 
