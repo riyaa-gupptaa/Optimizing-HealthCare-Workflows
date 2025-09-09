@@ -4,7 +4,7 @@ altair>=5.0.1
 plotly>=5.18.0
 matplotlib>=3.8.2
 seaborn>=0.13.2
-statsmodels>=1.2.0
+statsmodels<=0.14.5
 
 # Core data processing
 numpy>=1.26.4
