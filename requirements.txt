@@ -1,6 +1,7 @@
 # Streamlit and visualization
 streamlit>=1.27.2
 altair>=5.0.1
+plotly>=5.18.0
 matplotlib>=3.8.2
 seaborn>=0.13.2
 
